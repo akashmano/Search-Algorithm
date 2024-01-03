@@ -105,9 +105,9 @@ else:
 
 ```
 ## Sample Input and Output
-![Alt text](<Screenshot 2024-01-03 164948.png>)
-![Alt text](<Screenshot 2024-01-03 165012.png>)
-![Alt text](<Screenshot 2024-01-03 165025.png>)
+![Screenshot 2024-01-03 164948](https://github.com/akashmano/Search-Algorithm/assets/137408306/075ce451-8611-4449-bb4e-ca1ea5c35315)
+![Screenshot 2024-01-03 165012](https://github.com/akashmano/Search-Algorithm/assets/137408306/fc98c253-720e-43e0-bcfb-9d01bd4ddca2)
+![Screenshot 2024-01-03 165025](https://github.com/akashmano/Search-Algorithm/assets/137408306/803b1e38-bc8a-4a91-8279-7dec395f6c3d)
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
